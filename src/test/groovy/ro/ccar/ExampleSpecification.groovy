@@ -1,6 +1,5 @@
-package ccar
+package ro.ccar
 
-import ro.ccar.*
 import spock.lang.Specification
 import spock.lang.Subject
 
